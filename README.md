@@ -1,9 +1,18 @@
 # Personality_detection
-Personality detection project using SVM and LSTM in the context of a Master's Degree program. 
+Personality detection project using SVM and LSTM. This project aims at detecting the five personality traits by comparing SVM and LSTM. The final results show that LSTM outperforms SVM.
 
-In this project we worked on  the automatic classification of the big five personality traits by comparing an SVM model and an LSTM model.
-Our results showed that LSTM can achive higher performance in this task than our supervised SVM model.
 
+
+## The Big Five 
+
+The Big five personality traits is a proposed grouping of personality traits. 
+The traits fall into the falling 5 categories :
+
+- openness to exprerience
+- conscientiousness
+- extraversion
+- agreeableness
+- neuroticism
 
 ##  CLiPS Stylometry Investigation (CSI) corpus
 
