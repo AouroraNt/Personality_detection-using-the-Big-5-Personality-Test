@@ -6,7 +6,7 @@ Personality detection project using SVM and LSTM. This project aims at detecting
 ## The Big Five 
 
 The Big five personality traits is a proposed grouping of personality traits. 
-The traits fall into the falling 5 categories :
+The traits fall into the falling 5 categories:
 
 - openness to exprerience
 - conscientiousness
